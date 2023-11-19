@@ -4,33 +4,39 @@
 Currently studing the Software Engineering Career at Universidad Complutense de Madrid.
 
 ## Skills
-* Programming
-    * C++
-    * Java
++ Programming
+    + C++
+    + Java
 
 ## Judge Exercises
 ### C++
-* [FP2](https://github.com/danielfdez17/FP2) - Programming fundamentals 2
-* [FAL](https://github.com/danielfdez17/FAL) - Algorithm fundamentals
-* [ED](https://github.com/danielfdez17/ED) - Data structures
-* [TAIS](https://github.com/danielfdez17/TAIS) - Algorithmic techniques in Software Engineering
-* [PCOM](https://github.com/danielfdez17/) - Competitive programming
-* [Acepta el reto](https://github.com/danielfdez17/Acepta-el-reto)
++ [FP2](https://github.com/danielfdez17/FP2) - Programming fundamentals 2
++ [FAL](https://github.com/danielfdez17/FAL) - Algorithm fundamentals
++ [ED](https://github.com/danielfdez17/ED) - Data structures
++ [TAIS](https://github.com/danielfdez17/TAIS) - Algorithmic techniques in Software Engineering
++ [PCOM](https://github.com/danielfdez17/) - Competitive programming
++ [Acepta el reto](https://github.com/danielfdez17/Acepta-el-reto)
 
 
 ## Projects / Practices
 ### ARM
-* [FC2](https://github.com/danielfdez17/FC2) - Computers fundamentals 2
++ [FC2](https://github.com/danielfdez17/FC2) - Computers fundamentals 2
 
 #### C
-* [SO](https://github.com/danielfdez17/SO) - Operating systems
++ [SO](https://github.com/danielfdez17/SO) - Operating systems
 
 <!-- ### C++
-* [Rummy](https://github.com/danielfdez17/FP2) -->
++ [Rummy](https://github.com/danielfdez17/FP2) -->
 ### Java
-* [Plants VS Zombies](https://github.com/danielfdez17/TPI)
-* [Physics Simulator](https://github.com/danielfdez17/TPII)
-<!-- * PAD -->
++ [Plants VS Zombies](https://github.com/danielfdez17/TPI)
++ [Physics Simulator](https://github.com/danielfdez17/TPII)
+
+### Competitive programming
++ [PCOM](https://github.com/danielfdez17/PCOM)
++ [Uva Online Judge](https://github.com/danielfdez17/UVA)
++ [Leet Code](https://github.com/danielfdez17/LeetCode)
+
+<!-- + PAD -->
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielfdez17)
 
