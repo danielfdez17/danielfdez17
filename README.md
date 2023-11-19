@@ -15,7 +15,7 @@ Currently studing the Software Engineering Career at Universidad Complutense de 
 + [ED](https://github.com/danielfdez17/ED) - Data structures
 + [TAIS](https://github.com/danielfdez17/TAIS) - Algorithmic techniques in Software Engineering
 + [PCOM](https://github.com/danielfdez17/) - Competitive programming
-+ [Acepta el reto](https://github.com/danielfdez17/Acepta-el-reto)
++ [Acepta el reto](https://github.com/danielfdez17/Acepta-el-reto) - Web: https://aceptaelreto.com
 
 
 ## Projects / Practices
