@@ -10,7 +10,7 @@ Currently studing the Software Engineering Career at Universidad Complutense de 
 
 ## Judge Exercises
 ### C++
-+ [FP2](https://github.com/danielfdez17/FP2){:target="_blank"rel="noopener"} - Programming fundamentals 2
++ [FP2](https://github.com/danielfdez17/FP2){:target="_blank" rel="noopener"} - Programming fundamentals 2
 + [FAL](https://github.com/danielfdez17/FAL) - Algorithm fundamentals
 + [ED](https://github.com/danielfdez17/ED) - Data structures
 + [TAIS](https://github.com/danielfdez17/TAIS) - Algorithmic techniques in Software Engineering
