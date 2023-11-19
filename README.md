@@ -31,7 +31,7 @@ Currently studing the Software Engineering Career at Universidad Complutense de 
 + [Plants VS Zombies](https://github.com/danielfdez17/TPI)
 + [Physics Simulator](https://github.com/danielfdez17/TPII)
 
-### Competitive programming
+## Competitive programming
 + [PCOM](https://github.com/danielfdez17/PCOM)
 + [Uva Online Judge](https://github.com/danielfdez17/UVA)
 + [Leet Code](https://github.com/danielfdez17/LeetCode)
