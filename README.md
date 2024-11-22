@@ -5,106 +5,50 @@
 
 Currently studing the Software Engineering Career at Universidad Complutense de Madrid.
 <br>
-<!-- I try to overcome myself, enhance my skills and learn new ones every day. -->
 
-<!-- # -->
-
-<!-- <br> -->
-
-<!-- ### Languages and Tools
-<img align="left" alt="Java" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="C++" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Python" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Git" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="C" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="C" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> -->
-
-<!-- <br> -->
-
-<!-- ### Currently learning and using
-<img align="left" alt="HTML5" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Node Package Manager" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> -->
-          
-          
+## 📊 GitHub Stats
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielfdez17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielfdez17&theme=dark&hide_border=true&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfdez17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- <br> -->
+# 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) 
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
+![jQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
 
-<!-- ## Skills
-+ Programming
-    + Java
-    + C++
-    + C
-    + Assembly
-    + Python
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danielfdez17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+### 🔝 Top Contributed Repo
+<div align="left">
+    <img src="https://github-contributor-stats.vercel.app/api?username=danielfdez17&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repositories">
+    <!-- ![](https://github-contributor-stats.vercel.app/api?username=danielfdez17&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+</div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=danielfdez17&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### Java
-+ [Plants VS Zombies](https://github.com/danielfdez17/TPI)
-+ [Physics Simulator](https://github.com/danielfdez17/TPII)
-+ [Saborearte](https://github.com/danielfdez17/PAD) Mobile App
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-### C++
-+ [FP2](https://github.com/danielfdez17/FP2) - Programming fundamentals 2
-+ [FAL](https://github.com/danielfdez17/FAL) - Algorithm fundamentals
-+ [ED](https://github.com/danielfdez17/ED) - Data structures
-+ [TAIS](https://github.com/danielfdez17/TAIS) - Algorithmic techniques in Software Engineering
-+ [PCOM](https://github.com/danielfdez17/) - Competitive programming
-+ [Acepta el reto](https://github.com/danielfdez17/Acepta-el-reto) - Web: https://aceptaelreto.com
-+ [UVA Online Judge](https://github.com/danielfdez17/UVA)
-+ [LeetCode](https://github.com/danielfdez17/LeetCode)
-
-### C
-+ [SO](https://github.com/danielfdez17/SO) - Operating systems
-
-### Assembly
-+ [FC2](https://github.com/danielfdez17/FC2) - Computers fundamentals 2
-
-### Python
-+ [Python projects](https://github.com/danielfdez17/python-projects) -->
-
-<!-- <br> -->
-
-## Statistics
-
- <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielfdez17) -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfdez17)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfdez17&show_icons=true&theme=dark)  
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/danielfdez17)   -->
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=danielfdez17&theme=dark)
-
-<!--
-**danielfdez17/danielfdez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielfdez17/danielfdez17/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielfdez17/danielfdez17/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/danielfdez17/danielfdez17/output/github-snake.svg" />
 </picture>
+
+<!-- Snake movement credits to [tobiasmeyhoefer](https://github.com/tobiasmeyhoefer) -->
+Snake movement credits to <a target="_blank" href="https://github.com/tobiasmeyhoefer">tobiasmeyhoefer</a>
