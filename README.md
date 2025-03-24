@@ -1,7 +1,7 @@
 <!-- # Hi there 👋, my name is Daniel -->
 # Daniel Fernández
 
-**`Sotware Engineering student`**
+**`Software Engineering student`**
 
 Currently studing the Software Engineering Career at Universidad Complutense de Madrid.
 <br>
