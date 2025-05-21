@@ -9,8 +9,9 @@ Currently studing the Software Engineering Career at Universidad Complutense de 
 ## 📊 GitHub Stats
 
 
-<div align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=danielfdez17&theme=dark&hide_border=false)
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielfdez17&theme=dark&hide_border=true&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfdez17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
