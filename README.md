@@ -32,6 +32,7 @@ Currently studing the Software Engineering Career at Universidad Complutense de 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
+[![Stripe](https://img.shields.io/badge/Railway-9d17d6?logo=railway&logoColor=fff)](#)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danielfdez17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
