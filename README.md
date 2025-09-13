@@ -3,7 +3,7 @@
 
 **`Software Engineering student`**
 
-Currently studing the Software Engineering Career at Universidad Complutense de Madrid.
+Currently studing the Software Engineering Career at Universidad Complutense de Madrid and a Artificial Intelligence Master at Universidad Politécnica de Madrid.
 <br>
 
 ## 📊 GitHub Stats
