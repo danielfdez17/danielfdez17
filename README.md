@@ -15,6 +15,7 @@ Currently studing the Software Engineering Career at Universidad Complutense de 
 
 # 💻 Tech Stack
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+![C++](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
