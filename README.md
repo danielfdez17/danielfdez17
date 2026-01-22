@@ -1,7 +1,7 @@
 <!-- # Hi there 👋, my name is Daniel -->
 # Daniel Fernández
 
-**`Software Engineer`**
+**`Software Engineer | 42 Madrid student`**
 
 Currently studying Cybersecurity & AI at Evolve Academy.
 <br>
