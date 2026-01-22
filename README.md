@@ -1,9 +1,9 @@
 <!-- # Hi there 👋, my name is Daniel -->
 # Daniel Fernández
 
-**`Software Engineering and 42 Madrid student`**
+**`Software Engineer`**
 
-Currently finishing the Software Engineering Career at Universidad Complutense de Madrid.
+Currently studying Cybersecurity & AI at Evolve Academy.
 <br>
 
 ## 📊 GitHub Stats
