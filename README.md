@@ -6,9 +6,20 @@
 ## 📊 GitHub Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=danielfdez17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=danielfdez17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfdez17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.zcy.dev/api?username=danielfdez17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=danielfdez17&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfdez17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://komarev.com/ghpvc/?username=danielfdez17&style=plastic&color=brightgreen&label=Profile+Views"/>
+
+
+</div>
 
 # 💻 Tech Stack
 ## Programming languages
@@ -60,18 +71,13 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danielfdez17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=danielfdez17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 ### 🔝 Top Contributed Repo
 <div align="left">
     <img src="https://github-contributor-stats.vercel.app/api?username=danielfdez17&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repositories">
     <!-- ![](https://github-contributor-stats.vercel.app/api?username=danielfdez17&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=danielfdez17&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
@@ -82,4 +88,4 @@
 </picture>
 
 <!-- Snake movement credits to [tobiasmeyhoefer](https://github.com/tobiasmeyhoefer) -->
-Snake movement credits to <a target="_blank" href="https://github.com/tobiasmeyhoefer">tobiasmeyhoefer</a>
+<!-- Snake movement credits to <a target="_blank" href="https://github.com/tobiasmeyhoefer">tobiasmeyhoefer</a> -->
