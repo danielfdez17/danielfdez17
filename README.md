@@ -8,13 +8,20 @@
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.zcy.dev/api?username=danielfdez17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://ghstats.dev/api/card?username=danielfdez17)
+
+
+<!-- [![GitHub stats](https://github-readme-stats.zcy.dev/api?username=danielfdez17&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielfdez17&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfdez17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Top Languages](https://ghstats.dev/api/langs?username=danielfdez17&theme=catppuccin&layout=donut_vertical)
 
 <img src="https://komarev.com/ghpvc/?username=danielfdez17&style=plastic&color=brightgreen&label=Profile+Views"/>
 
